@@ -1,0 +1,38 @@
+
+body {
+	background-image: url("../image/turkey02.JPG");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+	padding: 20px; 
+	font-family: Arial, Verdana, sans-serif;
+	}
+
+.box {
+	float: left;
+	width: 350px; 
+	height: 400px;
+	background-color:#fff;
+	color: #000;
+	margin: 20px;
+	padding: 10px;
+	}
+
+.box1 {
+	background-image: url("../image/turkey.JPG");
+	background-position: center; 
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+
+.box2 { 
+	overflow: scroll; 
+	}
+
+
+
+.box3 { 
+	clear: both;
+	}
+
